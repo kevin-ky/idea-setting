@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.buildpath;*.classpath;*.eml;*.externalToolBuilders;*.hprof;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.springBeans;*.tomcatplugin;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="vsdx" type="Native" />
+      <mapping ext="mmap" type="Native" />
+      <mapping pattern="默认密码" type="PLAIN_TEXT" />
+      <mapping pattern="20150407" type="PLAIN_TEXT" />
+      <mapping pattern="预约相关表" type="PLAIN_TEXT" />
+      <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping pattern="添加票号的trigger" type="SQL" />
+      <mapping pattern="t_user" type="SQL" />
+    </extensionMap>
+  </component>
+</application>

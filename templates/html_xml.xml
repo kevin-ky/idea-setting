@@ -1,0 +1,89 @@
+<templateSet group="html/xml">
+  <template name="T" value="&lt;$TAG$&gt;$SELECTION$&lt;/$TAGNAME$&gt;&#10;" description="Surround with &lt;tag&gt;&lt;/tag&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TAGNAME" expression="firstWord(TAG)" defaultValue="&quot;&quot;" alwaysStopAt="false" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="splis" value="    &lt;!-- needed for ContextLoaderListener --&gt;&#10;&#9;&lt;context-param&gt;&#10;&#9;&#9;&lt;param-name&gt;contextConfigLocation&lt;/param-name&gt;&#10;&#9;&#9;&lt;param-value&gt;$location$&lt;/param-value&gt;&#10;&#9;&lt;/context-param&gt;&#10;&#10;&#9;&lt;!-- Bootstraps the root web application context before servlet initialization --&gt;&#10;&#9;&lt;listener&gt;&#10;&#9;&#9;&lt;listener-class&gt;org.springframework.web.context.ContextLoaderListener&lt;/listener-class&gt;&#10;&#9;&lt;/listener&gt;" description="Spring ContextLoaderListener Config" toReformat="false" toShortenFQNames="true">
+    <variable name="location" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="spdis" value="    &lt;!-- The front controller of this Spring Web application, responsible for handling all application requests --&gt;&#10;&#9;&lt;servlet&gt;&#10;&#9;&#9;&lt;servlet-name&gt;springDispatcherServlet&lt;/servlet-name&gt;&#10;&#9;&#9;&lt;servlet-class&gt;org.springframework.web.servlet.DispatcherServlet&lt;/servlet-class&gt;&#10;&#9;&#9;&lt;init-param&gt;&#10;&#9;&#9;&#9;&lt;param-name&gt;contextConfigLocation&lt;/param-name&gt;&#10;&#9;&#9;&#9;&lt;param-value&gt;$location$&lt;/param-value&gt;&#10;&#9;&#9;&lt;/init-param&gt;&#10;&#9;&#9;&lt;load-on-startup&gt;1&lt;/load-on-startup&gt;&#10;&#9;&lt;/servlet&gt;&#10;&#10;&#9;&lt;!-- Map all requests to the DispatcherServlet for handling --&gt;&#10;&#9;&lt;servlet-mapping&gt;&#10;&#9;&#9;&lt;servlet-name&gt;springDispatcherServlet&lt;/servlet-name&gt;&#10;&#9;&#9;&lt;url-pattern&gt;$url$&lt;/url-pattern&gt;&#10;&#9;&lt;/servlet-mapping&gt;" description="Spring DispatcherServlet Config" toReformat="false" toShortenFQNames="true">
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="location" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="serv" value="  &lt;servlet&gt;&#10;    &lt;servlet-name&gt;&lt;/servlet-name&gt;&#10;    &lt;servlet-class&gt;&lt;/servlet-class&gt;&#10;  &lt;/servlet&gt;&#10;  &lt;servlet-mapping&gt;&#10;    &lt;servlet-name&gt;&lt;/servlet-name&gt;&#10;    &lt;url-pattern&gt;&lt;/url-pattern&gt;&#10;  &lt;/servlet-mapping&gt;" description="servlet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="SQL" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
