@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="tapestry:parameter" />
     <ignored-resource url="www.w3.org/TR/html4/loose.dtd" />
   </component>
 </application>

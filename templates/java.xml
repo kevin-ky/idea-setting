@@ -1,0 +1,19 @@
+<templateSet group="java">
+  <template name="sprc" value="@RequestMapping(value = &quot;&quot;)&#10;public String method(Model model){&#10;    return &quot;&quot;;&#10;}" description="spring controller method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
+  <template name="sprrc" value="@RequestMapping(value = &quot;&quot;)&#10;@ResponseBody&#10;public String method(Model model){&#10;    return &quot;&quot;;&#10;}" description="spring reponsebody method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
