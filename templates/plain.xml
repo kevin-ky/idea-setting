@@ -1,80 +1,22 @@
 <templateSet group="plain">
   <template name="prs" value="private String " description="private String" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="COMPLETION" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="SQL" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="JSP" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="pri" value="private int " description="private int" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="COMPLETION" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="SQL" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="JSP" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="prb" value="private boolean " description="private boolean" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="XSL_TEXT" value="false" />
-      <option name="XML" value="false" />
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="COMPLETION" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="SQL" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="JSP" value="false" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="plo" value="private static final Logger LOGGER = LoggerFactory.getLogger($END$.class);" description="private static final LOGGER" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
 </templateSet>

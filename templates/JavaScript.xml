@@ -2,27 +2,17 @@
   <template name="coni" value="console.info($END$);" description="console.info();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="cone" value="console.error($END$);" description="console.error();" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
   <template name="$fun" value="$(function(){&#10;    $END$&#10;});" description="Inserts jquery onready function" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JSX_HTML" value="true" />
-      <option name="JS_STATEMENT" value="true" />
       <option name="JSP" value="true" />
     </context>
   </template>
