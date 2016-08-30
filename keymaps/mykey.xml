@@ -14,9 +14,6 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="ExternalSystem.EditRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift ctrl x" />
-  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
@@ -37,6 +34,9 @@
   </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
