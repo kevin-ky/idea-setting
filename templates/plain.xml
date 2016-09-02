@@ -77,4 +77,9 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="ent" value="@Entity&#10;@DynamicInsert&#10;@DynamicUpdate&#10;@Table(name = &quot;$END$&quot;)&#10;@Cache(usage = CacheConcurrencyStrategy.READ_WRITE)&#10;@JsonIgnoreProperties(value = {&quot;hibernateLazyInitializer&quot;, &quot;handler&quot;, &quot;fieldHandler&quot;})&#10;@GroupSequence({First.class, Second.class}) //设置Bean validator的规则" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
