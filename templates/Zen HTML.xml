@@ -5,7 +5,9 @@
     <variable name="COL" expression="" defaultValue="&quot;30&quot;" alwaysStopAt="true" />
     <variable name="ROWS" expression="" defaultValue="&quot;10&quot;" alwaysStopAt="true" />
     <context>
+      <option name="HTML_TEXT" value="true" />
       <option name="XSL_TEXT" value="true" />
+      <option name="JSX_HTML" value="true" />
     </context>
   </template>
 </templateSet>
