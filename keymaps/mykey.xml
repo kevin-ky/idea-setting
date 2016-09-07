@@ -15,6 +15,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="JRebel Debug">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
