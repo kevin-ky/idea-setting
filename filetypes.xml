@@ -6,8 +6,10 @@
       <mapping ext="mmap" type="Native" />
       <mapping pattern="默认密码" type="PLAIN_TEXT" />
       <mapping pattern="20150407" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit.pl" type="PLAIN_TEXT" />
       <mapping pattern="预约相关表" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="Perl" />
       <mapping pattern="添加票号的trigger" type="SQL" />
       <mapping pattern="t_user" type="SQL" />
     </extensionMap>
