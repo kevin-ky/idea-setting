@@ -7,7 +7,7 @@
     </option>
     <option name="numvals">
       <map>
-        <entry key="rebel.idea.log.level" value="0" />
+        <entry key="rebel.idea.log.level" value="5" />
         <entry key="stats.last.deploy.count" value="247" />
         <entry key="stats.last.val" value="10" />
       </map>
