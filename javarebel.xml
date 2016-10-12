@@ -1,5 +1,7 @@
 <application>
   <component name="JavaRebelPlugin">
+    <option name="embedded" value="false" />
+    <option name="griffin" value="true" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="6.5.1" />
