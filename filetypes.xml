@@ -10,6 +10,7 @@
       <mapping pattern="预约相关表" type="PLAIN_TEXT" />
       <mapping ext="xml_bak" type="PLAIN_TEXT" />
       <mapping ext="hprof" type="PLAIN_TEXT" />
+      <mapping ext="build" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="Perl" />
       <mapping pattern="添加票号的trigger" type="SQL" />
       <mapping pattern="t_user" type="SQL" />
