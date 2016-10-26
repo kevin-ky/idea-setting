@@ -557,6 +557,7 @@
   <inspection_tool class="Convert2Lambda" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="Convert2MethodRef" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="Convert2streamapi" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="ConvertLambdaToReference" enabled="false" level="INFO" enabled_by_default="true" />
   <inspection_tool class="ConvertToStringTemplate" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="CovariantCompareTo" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CovariantEquals" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -633,6 +634,8 @@
   <inspection_tool class="DeserializableClassInSecureContext" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DesignForExtension" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DialogTitleCapitalization" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DifferentKotlinGradleVersion" enabled="false" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DifferentStdlibGradleVersion" enabled="false" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DisjointPackage" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DivideByZero" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DivideByZeroJS" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -1424,6 +1427,7 @@
   <inspection_tool class="LawOfDemeter" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreLibraryCalls" value="true" />
   </inspection_tool>
+  <inspection_tool class="LeakingThis" enabled="false" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LengthOneStringInIndexOf" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LengthOneStringsInConcatenation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -1927,16 +1931,22 @@
     <option name="ignoreEmptySuperMethods" value="false" />
     <option name="onlyReportWhenAnnotated" value="true" />
   </inspection_tool>
+  <inspection_tool class="RemoveAtFromAnnotationArgument" enabled="false" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RemoveCurlyBracesFromTemplate" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="RemoveExplicitSuperQualifier" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="RemoveExplicitTypeArguments" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="RemoveForLoopIndices" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="RemoveSetterParameterType" enabled="false" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="RemoveSingleExpressionStringTemplate" enabled="false" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="RemoveToStringInStringTemplate" enabled="false" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="RemoveUnnecessaryLateinit" enabled="false" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReplaceAllDot" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReplaceAssignmentWithOperatorAssignment" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="ignoreLazyOperators" value="true" />
     <option name="ignoreObscureOperators" value="false" />
   </inspection_tool>
   <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ReplaceCallWithComparison" enabled="false" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReplaceGetOrSet" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="ReplaceWithOperatorAssignment" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="RequiredArtifactTypeInspection" enabled="true" level="ERROR" enabled_by_default="true" />
