@@ -2,14 +2,138 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/ChatRoomController.java" timestamp="1477564120085">
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="30" />
+        <mark key="^" line="62" column="30" />
+        <mark key="." line="62" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" timestamp="1477564947962">
+        <mark key="'" line="50" column="14" />
+        <mark key="[" line="52" column="72" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/CameraController.java" timestamp="1477565063742">
+        <mark key="'" line="41" column="12" />
+        <mark key="[" line="70" column="65" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="48" column="18" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" />
+      <jump line="50" column="14" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" />
+      <jump line="41" column="12" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/CameraController.java" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="/" type="4">
+        <text>Access</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Access</last-search>
+      <last-offset />
+      <last-pattern>Access</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>branch</entry>
+        <entry>add</entry>
+        <entry>.BRANCH</entry>
+        <entry>Access</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
