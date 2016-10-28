@@ -9,6 +9,7 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-core/src/main/resources/conf/mybatis/UserMapper.xml" timestamp="1477636026123" />
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" timestamp="1477564947962">
         <mark key="'" line="50" column="14" />
         <mark key="[" line="52" column="72" />
@@ -51,6 +52,8 @@
       <history-cmd>
         <entry>wq</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
