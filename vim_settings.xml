@@ -3,13 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Singleton.txt.ft" timestamp="1477640347936">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/CURD jsp.txt.ft" timestamp="1477640307243">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mybatis-generator-config.txt.ft" timestamp="1477640345614">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/ChatRoomController.java" timestamp="1477564120085">
         <mark key="[" line="62" column="31" />
         <mark key="]" line="62" column="30" />
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-core/src/main/resources/conf/mybatis/UserMapper.xml" timestamp="1477636026123" />
+      <file name="/mybatis-config.txt.ft" timestamp="1477640350525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" timestamp="1477564947962">
         <mark key="'" line="50" column="14" />
         <mark key="[" line="52" column="72" />
@@ -20,6 +31,9 @@
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/CameraController.java" timestamp="1477565063742">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="70" column="65" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1477640302552">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
