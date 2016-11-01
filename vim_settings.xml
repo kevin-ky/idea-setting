@@ -21,12 +21,37 @@
       <file name="/mybatis-config.txt.ft" timestamp="1477640350525">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/pdjh/trunk/common/conf-开发/fbrp.properties" timestamp="1477912046788">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3e173fc0-8665-46fb-96a1-653fe14a0033/console.sql" timestamp="1477912702629">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="/a.dummy" timestamp="1477913203782">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" timestamp="1477564947962">
         <mark key="'" line="50" column="14" />
         <mark key="[" line="52" column="72" />
         <mark key="]" line="28" column="21" />
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/pdjh/trunk/fvtc/web/script/client/ticket/index.js" timestamp="1477913444540">
+        <mark key="[" line="1332" column="23" />
+        <mark key="]" line="1332" column="22" />
+        <mark key="^" line="1332" column="22" />
+        <mark key="." line="1332" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/pdjh/trunk/fvtc/src/com/foresee/fvts/client/web/ticket/controller/TicketController.java" timestamp="1477913756198">
+        <mark key="[" line="381" column="9" />
+        <mark key="]" line="381" column="16" />
+        <mark key="." line="381" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/CameraController.java" timestamp="1477565063742">
         <mark key="'" line="41" column="12" />
@@ -35,6 +60,9 @@
       <file name="/HTML File.txt.ft" timestamp="1477640302552">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/pdjh/trunk/fvtc/src/com/foresee/fvts/client/service/imp/SeatTicketServiceImpl.java" timestamp="1477914015901">
+        <mark key="^" line="254" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="48" column="18" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" />
@@ -42,8 +70,17 @@
       <jump line="41" column="12" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/CameraController.java" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>DjNsrxx</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
       <register name=":" type="4">
         <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Access</text>
