@@ -6,7 +6,7 @@
       <file name="/Singleton.txt.ft" timestamp="1477640347936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477998827596">
+      <file name="/Dummy.txt" timestamp="1478068284798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/CURD jsp.txt.ft" timestamp="1477640307243">
@@ -14,6 +14,10 @@
       </file>
       <file name="/mybatis-generator-config.txt.ft" timestamp="1477640345614">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-core/src/main/resources/conf/mybatis/MypbxCalllogMapper.xml" timestamp="1478068886516">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/ChatRoomController.java" timestamp="1477564120085">
         <mark key="[" line="62" column="31" />
@@ -57,16 +61,25 @@
       <file name="$USER_HOME$/Documents/workspace/framework/settings.gradle" timestamp="1477993690327">
         <mark key="[" line="4" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" timestamp="1478068342745">
+        <mark key="'" line="49" column="3" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="4" />
+        <mark key="." line="85" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/pdjh/trunk/fvtc/src/com/foresee/fvts/client/web/ticket/controller/TicketController.java" timestamp="1477913756198">
         <mark key="[" line="381" column="9" />
         <mark key="]" line="381" column="16" />
         <mark key="." line="381" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/service/mypbx/MypbxCalllogService.java" timestamp="1478068352152">
+        <mark key="'" line="46" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/CameraController.java" timestamp="1477565063742">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="70" column="65" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1477640302552">
+      <file name="/HTML File.txt.ft" timestamp="1478068503132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/pdjh/trunk/fvtc/src/com/foresee/fvts/client/service/imp/SeatTicketServiceImpl.java" timestamp="1477914015901">
@@ -77,13 +90,26 @@
       <jump line="48" column="18" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" />
       <jump line="50" column="14" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/DVRmaintainController.java" />
       <jump line="41" column="12" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/converse/CameraController.java" />
+      <jump line="42" column="18" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="45" column="33" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="46" column="17" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="84" column="17" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="65" column="8" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="64" column="11" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="49" column="3" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/web/controller/mybpx/RecordController.java" />
+      <jump line="46" column="34" filename="$USER_HOME$/Documents/workspace/execute-monitor-system/trunk/ems/projects/ems-mng/src/main/java/com/foresee/ems/service/mypbx/MypbxCalllogService.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>DjNsrxx</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdi5zb3VyY2VfbnVtLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdi5zb3VyY2VfbnVtLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -92,13 +118,13 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>Access</text>
+        <text>findAll</text>
       </register>
     </registers>
     <search>
-      <last-search>Access</last-search>
+      <last-search>findAll</last-search>
       <last-offset />
-      <last-pattern>Access</last-pattern>
+      <last-pattern>findAll</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -108,6 +134,8 @@
         <entry>add</entry>
         <entry>.BRANCH</entry>
         <entry>Access</entry>
+        <entry>phone</entry>
+        <entry>findAll</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -128,7 +156,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -149,7 +177,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -158,13 +186,13 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -182,7 +210,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
